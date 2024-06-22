@@ -1,0 +1,15 @@
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.deps.json
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.pdb
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\bin\Debug\net8.0\HelperModels.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\bin\Debug\net8.0\HelperModels.pdb
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.AssemblyReference.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.AssemblyInfoInputs.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.AssemblyInfo.cs
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.CoreCompileInputs.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.Up2Date
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\refint\HelperSQL.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.pdb
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\ref\HelperSQL.dll

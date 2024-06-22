@@ -1,0 +1,12 @@
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.deps.json
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.pdb
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.csproj.AssemblyReference.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.AssemblyInfoInputs.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.AssemblyInfo.cs
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.csproj.CoreCompileInputs.cache
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\refint\HelperSerialize.dll
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.pdb
+C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\ref\HelperSerialize.dll
