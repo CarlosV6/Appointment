@@ -11,11 +11,12 @@ namespace HelperRabbitMQ
 {
     public class Producer(ConfigurationRabbitMQ rabbitMQConfig) : BaseRabbitMQ(rabbitMQConfig)
     {
-        public void SendMessage(string message)
+        public void SendMessage(string messageOutPut)
         {
             try
             {
-                _model.BasicPublish(_ExchangeName, _RoutingKey, null, message.Serialize());
+                _model.BasicPublish(_ExchangeName, _RoutingKey, null, messageOutPut.Serialize());
+                Console.WriteLine($"Send message: {messageOutPut}");
             }
             catch
             {

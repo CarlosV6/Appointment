@@ -278,3 +278,22 @@ Responsabilidades:
 Integración con sistemas de terceros.
 
 En resumen, este sistema de gestión de citas médicas proporcionará una solución eficiente y escalable para pacientes y médicos, mejorando la experiencia de programación de citas y la administración de la agenda médica.
+
+
+---------------------------------------tblUserProfile--------------------------------------------------------------------------
+{"operation":"Insert","metod":"InsertTblUserProfile","table":"tblUserProfile","data":""}
+
+{"IdSUserProfile":"1","UserProfile":"Test"}
+
+{"operation":"Insert","metod":"InsertTblUserProfile","table":"tblUserProfile","data":"{\"IdSUserProfile\":\"1\",\"UserProfile\":\"Test\"}\n"}
+
+"{\"operation\":\"Insert\",\"metod\":\"InsertTblUserProfile\",\"table\":\"tblUserProfile\",\"data\":\"{\\\"IdSUserProfile\\\":\\\"1\\\",\\\"UserProfile\\\":\\\"Test\\\"}\\n\"}\n"
+
+------------------------------------tblSystemUsers-----------------------------------------------------------------------------
+{"operation":"Insert","metod":"InsertTblUserProfile","table":"tblUserProfile","data":""}
+
+{"IdSystemUsers":"0","IdSUserProfile":"1","SystemUsers":"Prueba Test","SystemUsersPass":"Admin123*","SitSystemUsers":"1"}
+
+{"operation":"Insert","metod":"InsertTblUserProfile","table":"tblUserProfile","data":"{\"IdSystemUsers\":\"0\",\"IdSUserProfile\":\"1\",\"SystemUsers\":\"Prueba Test\",\"SystemUsersPass\":\"Admin123*\",\"SitSystemUsers\":\"1\"}"}
+
+"{\"operation\":\"Insert\",\"metod\":\"InsertTblUserProfile\",\"table\":\"tblUserProfile\",\"data\":\"{\\\"IdSystemUsers\\\":\\\"0\\\",\\\"IdSUserProfile\\\":\\\"1\\\",\\\"SystemUsers\\\":\\\"Prueba Test\\\",\\\"SystemUsersPass\\\":\\\"Admin123*\\\",\\\"SitSystemUsers\\\":\\\"1\\\"}\"}"
