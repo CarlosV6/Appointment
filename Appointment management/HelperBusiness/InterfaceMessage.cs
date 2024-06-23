@@ -8,6 +8,6 @@ namespace HelperBusiness
 {
     public interface InterfaceMessage
     {
-        void ProcessMessage(string message);
+        string ProcessMessage(string messageInPut);
     }
 }

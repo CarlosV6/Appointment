@@ -7,16 +7,14 @@ namespace UserManagement
 {
     public class UserManagementProcess(IOptionsSnapshot<ConfigurationRabbitMQ> RMOptions)
     {
-        private readonly ConfigurationRabbitMQ _RabbitMQSource =  RMOptions.Get("RabbitMQSource");
         private readonly ConfigurationRabbitMQ _RabbitMQDestination = RMOptions.Get("RabbitMQDestination");
         private readonly BsUserManagement _BsUserManagement = new BsUserManagement();
-
+        Consumer _consumer = new Consumer(RMOptions.Get("RabbitMQSource"));
         public void StartProcess()
         {
             try
             {
-                Consumer _consumer = new Consumer(_RabbitMQSource);
-                _consumer.StartConsumingMessage("UserManagement");
+                _consumer.StartConsumingMessage("UserManagement", _RabbitMQDestination);
             }
             catch
             {

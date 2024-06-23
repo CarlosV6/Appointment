@@ -1,0 +1,434 @@
+{
+	"info": {
+		"_postman_id": "fb148f90-e6d7-4c96-8e76-8706f1b2f3fa",
+		"name": "UserManagement",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23610465",
+		"_collection_link": "https://lively-equinox-353024.postman.co/workspace/Team-Workspace~298dd835-8fb7-4dde-8d6b-927ec084f106/collection/23610465-fb148f90-e6d7-4c96-8e76-8706f1b2f3fa?action=share&source=collection_link&creator=23610465"
+	},
+	"item": [
+		{
+			"name": "Consult GetUserProfile",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Consult\\\",\\\"metod\\\":\\\"GetUserProfile\\\",\\\"table\\\":\\\"\\\",\\\"data\\\":\\\"\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consult GetSystemUsers",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Consult\\\",\\\"metod\\\":\\\"GetSystemUsers\\\",\\\"table\\\":\\\"\\\",\\\"data\\\":\\\"\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consult GetUserProfileSystemUsers",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Consult\\\",\\\"metod\\\":\\\"GetUserProfileSystemUsers\\\",\\\"table\\\":\\\"\\\",\\\"data\\\":\\\"\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertTblUserProfile",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Insert\\\",\\\"metod\\\":\\\"InsertTblUserProfile\\\",\\\"table\\\":\\\"tblUserProfile\\\",\\\"data\\\":\\\"{\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"UserProfile\\\\\\\":\\\\\\\"Carlos Perfil\\\\\\\"}\\\\n\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateTblUserProfile",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Update\\\",\\\"metod\\\":\\\"UpdateTblUserProfile\\\",\\\"table\\\":\\\"tblUserProfile\\\",\\\"data\\\":\\\"{\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"4\\\\\\\",\\\\\\\"UserProfile\\\\\\\":\\\\\\\"Perfil Test\\\\\\\"}\\\\n\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteTblUserProfile",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Delete\\\",\\\"metod\\\":\\\"DeleteTblUserProfile\\\",\\\"table\\\":\\\"tblUserProfile\\\",\\\"data\\\":\\\"{\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"4\\\\\\\",\\\\\\\"UserProfile\\\\\\\":\\\\\\\"\\\\\\\"}\\\\n\\\"}\\n\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertTblSystemUsers",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Insert\\\",\\\"metod\\\":\\\"InsertTblSystemUsers\\\",\\\"table\\\":\\\"tblSystemUsers\\\",\\\"data\\\":\\\"{\\\\\\\"IdSystemUsers\\\\\\\":\\\\\\\"0\\\\\\\",\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"1\\\\\\\",\\\\\\\"SystemUsers\\\\\\\":\\\\\\\"Prueba Test\\\\\\\",\\\\\\\"SystemUsersPass\\\\\\\":\\\\\\\"Admin123*\\\\\\\",\\\\\\\"SitSystemUsers\\\\\\\":\\\\\\\"1\\\\\\\"}\\\"}\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateTblSystemUsers",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Update\\\",\\\"metod\\\":\\\"UpdateTblSystemUsers\\\",\\\"table\\\":\\\"tblSystemUsers\\\",\\\"data\\\":\\\"{\\\\\\\"IdSystemUsers\\\\\\\":\\\\\\\"4\\\\\\\",\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"SystemUsers\\\\\\\":\\\\\\\"Test\\\\\\\",\\\\\\\"SystemUsersPass\\\\\\\":\\\\\\\"Admin123*\\\\\\\",\\\\\\\"SitSystemUsers\\\\\\\":\\\\\\\"1\\\\\\\"}\\\"}\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteTblSystemUsers",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "Moadib_666",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "Cvalle_sc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"properties\": {},\r\n  \"routing_key\": \"RoutenKeySourceUM\",\r\n  \"payload\": \"{\\\"operation\\\":\\\"Delete\\\",\\\"metod\\\":\\\"DeleteTblSystemUsers\\\",\\\"table\\\":\\\"tblSystemUsers\\\",\\\"data\\\":\\\"{\\\\\\\"IdSystemUsers\\\\\\\":\\\\\\\"4\\\\\\\",\\\\\\\"IdSUserProfile\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"SystemUsers\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"SystemUsersPass\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"SitSystemUsers\\\\\\\":\\\\\\\"\\\\\\\"}\\\"}\",\r\n  \"payload_encoding\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:15672/api/exchanges/%2f/ExchangeUM/publish",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "15672",
+					"path": [
+						"api",
+						"exchanges",
+						"%2f",
+						"ExchangeUM",
+						"publish"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
