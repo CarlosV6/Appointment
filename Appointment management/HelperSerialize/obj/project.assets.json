@@ -55,25 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\P129A11\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Moadib\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
+      "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
       "projectName": "HelperSerialize",
-      "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
-      "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\obj\\",
+      "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
+      "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -83,10 +81,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-        "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -130,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

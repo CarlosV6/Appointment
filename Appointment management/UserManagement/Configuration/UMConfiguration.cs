@@ -8,7 +8,6 @@ namespace UserManagement.Configuration
         {
             var assembly = typeof(UMConfiguration).Assembly;
 
-            ConfigureDBSettings(services, configuration);
             ConfigureRabbitMQSource(services, configuration);
             ConfigureRabbitMQDestination(services, configuration);
 
@@ -16,12 +15,6 @@ namespace UserManagement.Configuration
             services.AddValidatorsFromAssembly(assembly);
 
             return services;
-        }
-
-        private static void ConfigureDBSettings(IServiceCollection services, IConfiguration configuration)
-        {
-            services.Configure<ConfigurationSQL>("SQLConfiguration", configuration.GetSection("SQLConfiguration"));
-            services.AddSingleton<ConfigurationSQL>();
         }
         private static void ConfigureRabbitMQSource(IServiceCollection services, IConfiguration configuration)
         {

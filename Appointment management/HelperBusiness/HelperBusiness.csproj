@@ -9,7 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HelperData\HelperData.csproj" />
     <ProjectReference Include="..\HelperModels\HelperModels.csproj" />
-    <ProjectReference Include="..\HelperRabbitMQ\HelperRabbitMQ.csproj" />
+    <ProjectReference Include="..\HelperSerialize\HelperSerialize.csproj" />
   </ItemGroup>
 
 </Project>

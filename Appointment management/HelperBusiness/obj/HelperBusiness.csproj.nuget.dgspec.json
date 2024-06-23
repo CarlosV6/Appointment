@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperBusiness\\HelperBusiness.csproj": {}
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperBusiness\\HelperBusiness.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperBusiness\\HelperBusiness.csproj": {
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperBusiness\\HelperBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperBusiness\\HelperBusiness.csproj",
+        "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperBusiness\\HelperBusiness.csproj",
         "projectName": "HelperBusiness",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperBusiness\\HelperBusiness.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperBusiness\\obj\\",
+        "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperBusiness\\HelperBusiness.csproj",
+        "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,23 +27,20 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\HelperData.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\HelperData.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\HelperData.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\HelperData.csproj"
               },
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj"
               },
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\HelperRabbitMQ.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\HelperRabbitMQ.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj"
               }
             }
           }
@@ -79,25 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\HelperData.csproj": {
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\HelperData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\HelperData.csproj",
+        "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\HelperData.csproj",
         "projectName": "HelperData",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\HelperData.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperData\\obj\\",
+        "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\HelperData.csproj",
+        "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,20 +102,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj"
               },
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\HelperSQL.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\HelperSQL.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\HelperSQL.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\HelperSQL.csproj"
               }
             }
           }
@@ -155,94 +147,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\HelperDecode.csproj": {
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\HelperDecode.csproj",
-        "projectName": "HelperDecode",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\HelperDecode.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj",
+        "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj",
         "projectName": "HelperModels",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\obj\\",
+        "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj",
+        "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,10 +174,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -293,110 +212,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\HelperRabbitMQ.csproj": {
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\HelperRabbitMQ.csproj",
-        "projectName": "HelperRabbitMQ",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\HelperRabbitMQ.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperRabbitMQ\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\HelperDecode.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperDecode\\HelperDecode.csproj"
-              },
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj"
-              },
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "RabbitMQ.Client": {
-              "target": "Package",
-              "version": "[6.8.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
+        "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
         "projectName": "HelperSerialize",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSerialize\\obj\\",
+        "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\HelperSerialize.csproj",
+        "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSerialize\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -406,10 +239,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -453,25 +283,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\HelperSQL.csproj": {
+    "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\HelperSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\HelperSQL.csproj",
+        "projectUniqueName": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\HelperSQL.csproj",
         "projectName": "HelperSQL",
-        "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\HelperSQL.csproj",
-        "packagesPath": "C:\\Users\\P129A11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperSQL\\obj\\",
+        "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\HelperSQL.csproj",
+        "packagesPath": "C:\\Users\\Moadib\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\P129A11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Moadib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -481,17 +310,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://nuget.devexpress.com/bIDD8Nj1Aj94pmEOTMgzostFNatIlqVMQaxNfqe1otT9J8ieGC/api": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/ThirdParty/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Ceridian/_packaging/dayforce@release/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj": {
-                "projectPath": "C:\\Users\\P129A11\\OneDrive - Ceridian HCM Inc\\Desktop\\Microservice and Message Broker\\Appointment management\\HelperModels\\HelperModels.csproj"
+              "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj": {
+                "projectPath": "C:\\GIT Propjects\\Appointment\\Appointment management\\HelperModels\\HelperModels.csproj"
               }
             }
           }
@@ -511,6 +337,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
@@ -532,7 +366,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

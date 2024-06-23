@@ -2,14 +2,22 @@
 using System.Collections;
 using System.Data;
 using System.Data.SqlClient;
-using HelperModels;
+using Microsoft.Extensions.Configuration;
 
 namespace HelperSQL
 {
-    public class ExecSQL(ConfigurationSQL _ConfigurationSQL)
+    public class ExecSQL
     {
-        private readonly string _connectionString = @$"Data Source = {_ConfigurationSQL.Server}; Initial Catalog ={_ConfigurationSQL.DataBase}; User ID = {_ConfigurationSQL.User}; Password = {_ConfigurationSQL.PassWord}; Connection Timeout = {_ConfigurationSQL.TimeOut}; Integrated Security ={_ConfigurationSQL.integratedSecurity}; TrustServerCertificate ={_ConfigurationSQL.trustServerCertificate}";
-
+        private readonly string _connectionString = String.Empty;
+        private readonly IConfiguration _iConfiguration;
+        public ExecSQL()
+        {
+            var builder = new ConfigurationBuilder()
+                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+            _iConfiguration = builder.Build();
+            var _iconfigurationSql = _iConfiguration.GetSection("SQLConfiguration");
+            _connectionString = @$"Data Source = {_iconfigurationSql["Server"]}; Initial Catalog ={_iconfigurationSql["DataBase"]}; User ID = {_iconfigurationSql["User"]}; Password = {_iconfigurationSql["PassWord"]}; Connection Timeout = {_iconfigurationSql["TimeOut"]}; Integrated Security ={_iconfigurationSql["integratedSecurity"]}; TrustServerCertificate ={_iconfigurationSql["trustServerCertificate"]}";
+        }
         public DataTable RunScript(string query)
         {
             DataTable dt = new DataTable();

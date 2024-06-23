@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HelperDecode\HelperDecode.csproj" />
     <ProjectReference Include="..\HelperModels\HelperModels.csproj" />
+    <ProjectReference Include="..\HelperProcessMessage\HelperProcessMessage.csproj" />
     <ProjectReference Include="..\HelperSerialize\HelperSerialize.csproj" />
   </ItemGroup>
 

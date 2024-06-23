@@ -9,10 +9,9 @@ using System.Threading.Tasks;
 
 namespace HelperData
 {
-    public class DataUserManagement(ConfigurationSQL _ConfigurationSQL)
+    public class DataUserManagement()
     {
-        private readonly ExecSQL _ExecSQL = new ExecSQL(_ConfigurationSQL);
-
+        private readonly ExecSQL _ExecSQL = new ExecSQL();
         public DataTable GetProfile()
         {
             DataTable dt = new DataTable();

@@ -30,3 +30,36 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.genruntimeconfig.cache
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\MedicalManagement\obj\Debug\net8.0\ref\MedicalManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\appsettings.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\MedicalManagement.exe
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\MedicalManagement.deps.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\MedicalManagement.runtimeconfig.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\MedicalManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\MedicalManagement.pdb
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets\msbuild.MedicalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.MedicalManagement.props
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MedicalManagement.props
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MedicalManagement.props
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\scopedcss\bundle\MedicalManagement.styles.css
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalM.F1029916.Up2Date
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\refint\MedicalManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.pdb
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\MedicalManagement.genruntimeconfig.cache
+C:\GIT Propjects\Appointment\Appointment management\MedicalManagement\obj\Debug\net8.0\ref\MedicalManagement.dll

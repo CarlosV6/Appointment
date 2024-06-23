@@ -13,3 +13,20 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\refint\HelperSQL.dll
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSQL\obj\Debug\net8.0\ref\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.deps.json
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\HelperSQL.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\refint\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\ref\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\appsettings.json
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\HelperModels.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\bin\Debug\net8.0\HelperModels.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperSQL\obj\Debug\net8.0\HelperSQL.csproj.Up2Date

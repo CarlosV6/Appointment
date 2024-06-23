@@ -30,3 +30,36 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.genruntimeconfig.cache
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\ref\AuthenticationAuthorization.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\appsettings.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\AuthenticationAuthorization.exe
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\AuthenticationAuthorization.deps.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\AuthenticationAuthorization.runtimeconfig.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\AuthenticationAuthorization.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\AuthenticationAuthorization.pdb
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets\msbuild.AuthenticationAuthorization.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthenticationAuthorization.props
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthenticationAuthorization.props
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthenticationAuthorization.props
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\scopedcss\bundle\AuthenticationAuthorization.styles.css
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\Authenti.769CA31D.Up2Date
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\refint\AuthenticationAuthorization.dll
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.pdb
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\AuthenticationAuthorization.genruntimeconfig.cache
+C:\GIT Propjects\Appointment\Appointment management\AuthenticationAuthorization\obj\Debug\net8.0\ref\AuthenticationAuthorization.dll

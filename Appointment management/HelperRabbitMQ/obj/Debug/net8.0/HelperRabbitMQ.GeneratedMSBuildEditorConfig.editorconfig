@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelperRabbitMQ
-build_property.ProjectDir = C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperRabbitMQ\
+build_property.ProjectDir = C:\GIT Propjects\Appointment\Appointment management\HelperRabbitMQ\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

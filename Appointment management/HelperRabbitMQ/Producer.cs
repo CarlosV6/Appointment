@@ -11,7 +11,7 @@ namespace HelperRabbitMQ
 {
     public class Producer(ConfigurationRabbitMQ rabbitMQConfig) : BaseRabbitMQ(rabbitMQConfig)
     {
-        public void SendMessage(InterfaceMessage message)
+        public void SendMessage(string message)
         {
             try
             {

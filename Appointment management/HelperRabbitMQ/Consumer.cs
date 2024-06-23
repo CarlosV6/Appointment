@@ -2,19 +2,16 @@
 using HelperSerialize;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using HelperProcessMessage;
 
 namespace HelperRabbitMQ
 {
     public class Consumer(ConfigurationRabbitMQ rabbitMQSourceConfig) : BaseRabbitMQ(rabbitMQSourceConfig)
     {
-        public void StartConsumingMessage()
+        public void StartConsumingMessage(string process)
         {
             string message= String.Empty;
+            ProcessMessage _processMessage = new ProcessMessage();
             try 
             {
                 var msgsRecievedGate = new ManualResetEventSlim(false);
@@ -29,7 +26,7 @@ namespace HelperRabbitMQ
                     Console.WriteLine($"Received message in process: {message}");
                     _model.BasicAck(ea.DeliveryTag, true); //borra el mensaje de la cola 
                     //_model.BasicNack(ea.DeliveryTag, true); //mantiene en la cola con estado negativo
-
+                     _processMessage.ProcessAllMessage(message, process);
                 };
                 _model.BasicConsume(queue: _QueueName, autoAck: false, consumer: consumer);
                 msgsRecievedGate.Wait();//espera hasta recibir el mensaje

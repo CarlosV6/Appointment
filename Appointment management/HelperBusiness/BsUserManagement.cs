@@ -1,28 +1,47 @@
 ﻿using HelperData;
 using HelperModels;
 using HelperSerialize;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HelperBusiness
 {
-    public class BsUserManagement
+    public class BsUserManagement: InterfaceMessage
     {
         private readonly DataUserManagement _DataUserManagement;
-
-        public BsUserManagement(ConfigurationSQL _ConfigurationSQL)
+        public BsUserManagement()
         {
-            _DataUserManagement = new DataUserManagement(_ConfigurationSQL);
+            _DataUserManagement = new DataUserManagement();
         }
-        public string StartProcess(string message)   
+        public void ProcessMessage(string message)   
         {
+            dataModelProcess _dataModelProcess = (dataModelProcess)message.Deserialize(typeof(dataModelProcess))!;
 
-            string mensaje = _DataUserManagement.GetProfile().SerializeText() ?? "";
+            if (_dataModelProcess.operation == "Consult")
+            {
+                if (_dataModelProcess.metod == "GetProfile")
+                {
+                    _DataUserManagement.GetProfile();
+                }
+                if (_dataModelProcess.metod == "GetUsers")
+                {
+                    _DataUserManagement.GetUsers();
+                }
+                if (_dataModelProcess.metod == "GetProfileUser")
+                {
+                    _DataUserManagement.GetProfileUser();
+                }
+            }
+            else if (_dataModelProcess.operation == "Insert")
+            {
 
-            return mensaje;
+            }
+            else if (_dataModelProcess.operation == "Update")
+            {
+
+            }
+            else if (_dataModelProcess.operation == "Delete")
+            {
+
+            }
         }
     }
 }

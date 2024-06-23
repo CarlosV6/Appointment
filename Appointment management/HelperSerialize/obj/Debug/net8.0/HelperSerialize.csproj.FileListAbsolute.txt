@@ -10,3 +10,16 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\refint\HelperSerialize.dll
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperSerialize\obj\Debug\net8.0\ref\HelperSerialize.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.deps.json
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\bin\Debug\net8.0\HelperSerialize.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\refint\HelperSerialize.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\HelperSerialize.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperSerialize\obj\Debug\net8.0\ref\HelperSerialize.dll

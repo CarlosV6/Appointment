@@ -15,3 +15,22 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperData\obj\Debug\net8.0\refint\HelperData.dll
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperData\obj\Debug\net8.0\HelperData.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\HelperData\obj\Debug\net8.0\ref\HelperData.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperData.deps.json
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperData.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperData.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperModels.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperSQL.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperModels.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\HelperSQL.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.csproj.Up2Date
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\refint\HelperData.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\HelperData.pdb
+C:\GIT Propjects\Appointment\Appointment management\HelperData\obj\Debug\net8.0\ref\HelperData.dll
+C:\GIT Propjects\Appointment\Appointment management\HelperData\bin\Debug\net8.0\appsettings.json

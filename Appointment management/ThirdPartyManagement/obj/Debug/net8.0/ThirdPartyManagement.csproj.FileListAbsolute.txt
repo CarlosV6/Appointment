@@ -30,3 +30,36 @@ C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Br
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.pdb
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.genruntimeconfig.cache
 C:\Users\P129A11\OneDrive - Ceridian HCM Inc\Desktop\Microservice and Message Broker\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ref\ThirdPartyManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\appsettings.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\ThirdPartyManagement.exe
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\ThirdPartyManagement.deps.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\ThirdPartyManagement.runtimeconfig.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\ThirdPartyManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\ThirdPartyManagement.pdb
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.csproj.AssemblyReference.cache
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.AssemblyInfoInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.AssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.csproj.CoreCompileInputs.cache
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.sourcelink.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets\msbuild.ThirdPartyManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.ThirdPartyManagement.props
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ThirdPartyManagement.props
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ThirdPartyManagement.props
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\scopedcss\bundle\ThirdPartyManagement.styles.css
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPar.A7925232.Up2Date
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\refint\ThirdPartyManagement.dll
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.pdb
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ThirdPartyManagement.genruntimeconfig.cache
+C:\GIT Propjects\Appointment\Appointment management\ThirdPartyManagement\obj\Debug\net8.0\ref\ThirdPartyManagement.dll
