@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelperProcessMessage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b01ef7ad3ffdbea616f45bdfec5a17230b21d6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b61707dc2fcbca22d26641c6b08a7cc8d2a45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelperProcessMessage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelperProcessMessage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
