@@ -13,7 +13,7 @@ namespace HelperSQL
         public ExecSQL()
         {
             var builder = new ConfigurationBuilder()
-                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+                 .AddJsonFile("appsettingsSql.json", optional: true, reloadOnChange: true);
             _iConfiguration = builder.Build();
             var _iconfigurationSql = _iConfiguration.GetSection("SQLConfiguration");
             _connectionString = @$"Data Source = {_iconfigurationSql["Server"]}; Initial Catalog ={_iconfigurationSql["DataBase"]}; User ID = {_iconfigurationSql["User"]}; Password = {_iconfigurationSql["PassWord"]}; Connection Timeout = {_iconfigurationSql["TimeOut"]}; Integrated Security ={_iconfigurationSql["integratedSecurity"]}; TrustServerCertificate ={_iconfigurationSql["trustServerCertificate"]}";
