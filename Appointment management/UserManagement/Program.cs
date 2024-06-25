@@ -1,7 +1,7 @@
 using UserManagement;
 using UserManagement.Configuration;
 
-internal class Program
+internal partial class Program
 {
     private static void Main(string[] args)
     {
