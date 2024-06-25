@@ -6,10 +6,10 @@ WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
+
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-RUN ls
 COPY ["UserManagement/UserManagement.csproj", "UserManagement/"]
 COPY ["HelperBusiness/HelperBusiness.csproj", "HelperBusiness/"]
 COPY ["HelperData/HelperData.csproj", "HelperData/"]
@@ -20,12 +20,14 @@ COPY ["HelperRabbitMQ/HelperRabbitMQ.csproj", "HelperRabbitMQ/"]
 COPY ["HelperDecode/HelperDecode.csproj", "HelperDecode/"]
 COPY ["HelperProcessMessage/HelperProcessMessage.csproj", "HelperProcessMessage/"]
 RUN dotnet restore "./UserManagement/UserManagement.csproj"
-WORKDIR "/src/UserManagement"
 COPY . .
-RUN dotnet build "./UserManagement.csproj" -c $BUILD_CONFIGURATION -o /app/build
+WORKDIR "/src/UserManagement"
+
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
+RUN dotnet build "./UserManagement.csproj" -c $BUILD_CONFIGURATION -o /app/build
 RUN dotnet publish "./UserManagement.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
