@@ -1,6 +1,7 @@
 SELECT *
 FROM tblUserProfile
 
+/*
 UPDATE tblUserProfile
 SET    UserProfile = ''
 WHERE  NOT IdSUserProfile IN (1,2,3)
@@ -9,10 +10,11 @@ AND    IdSUserProfile = 4
 DELETE tblUserProfile
 WHERE  NOT IdSUserProfile IN (1,2,3)
 AND    IdSUserProfile = 4
--------------------------------------------------------------------------------------
+*/
+----------------------------------tblUserProfile---------------------------------------------------
 SELECT *
 FROM tblSystemUsers
-
+/*
 UPDATE tblSystemUsers
 SET    IdSUserProfile = 0,
        SystemUsers = '',
@@ -22,7 +24,8 @@ WHERE  IdSystemUsers = 4
 
 DELETE tblSystemUsers
 WHERE  IdSystemUsers = 4
--------------------------------------------------------------------------------------
+*/
+---------------------------------tblSystemUsers----------------------------------------------------
 SELECT up.IdSUserProfile, 
        up.UserProfile, 
 	   su.IdSystemUsers,

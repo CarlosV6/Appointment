@@ -1,5 +1,6 @@
 ﻿using FluentValidation;
 using HelperModels;
+
 namespace UserManagement.Configuration
 {
     public static class UMConfiguration
